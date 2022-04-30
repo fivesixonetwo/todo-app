@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+}
+
+.header > span {
+    display: block;
+    margin-bottom: 16px;
+}
+
+.icon-plus-circle {
+    fill: red;
+}
